@@ -1,5 +1,3 @@
-# 修改后完整README（已适配取消自定义域名，新增GitHub Pages演示链接，SEO收录优化，直接全量替换原有内容）
-```markdown
 # 飙算画影网 - 一站式无限画布AI图片视频创作平台
 
 ### 官方主站：https://wifi.quantv.com/
