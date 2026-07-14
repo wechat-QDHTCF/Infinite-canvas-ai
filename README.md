@@ -1,6 +1,6 @@
 # 飙算画影网 - 一站式无限画布AI图片视频创作平台
 
-### 官方主站：https://wifi.quantv.com/
+### 官方主站：https://biaosuanhuaying.com/
 ## 产品预览图
 ![飙算画影网预览图](./biaosuan-huaying.png)
 
@@ -112,25 +112,6 @@
 - 插画/二次元创作者：AI辅助绘图、线稿渲染、人像写真
 - 渠道创业者：申请合伙人，搭建自有AI设计平台盈利
 
-## 🚀 本地部署指引
-1. 克隆仓库
-```bash
-git clone https://github.com/wechat-QDHTCF/Infinite-canvas-ai.git
-cd Infinite-canvas-ai
-```
-2. 安装依赖
-```bash
-npm install
-# 或 pnpm install
-```
-3. 本地启动
-```bash
-npm run dev
-```
-4. 生产打包
-```bash
-npm run build
-```
 
 ## 📞 合作招商
 平台开放渠道合伙人招募，提供全套无限画布运营方案、算力扶持、流量教学，有需求可联系微信商务：QDHTCF 
